@@ -2,6 +2,6 @@
 
 
 # Salvando modificações no Git
-*Command git push
+* Command git push
 
 
